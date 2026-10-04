@@ -1,0 +1,8 @@
+a = int(input())
+b = int(input())
+abs_a = abs(a)
+abs_b = abs(b)
+print(abs_a + abs_b)
+print(abs_a - abs_b)
+print(abs_a * abs_b)
+print(abs_a / abs_b)

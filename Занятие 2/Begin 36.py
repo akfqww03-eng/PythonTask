@@ -1,0 +1,7 @@
+V1 = float(input())
+V2 = float(input())
+S = float(input())
+T = float(input())
+total = S+T*(V1+V2)
+print(T)
+print(total)
